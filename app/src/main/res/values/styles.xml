@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    
+    <style name="Black70BuenosAiresWebBold15sp">
+        <item name="android:fontFamily">@font/buenosaires2web_bold</item>
+        <item name="android:color">#B3000000</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="Black90BuenosAiresWebBold14sp">
+        <item name="android:fontFamily">@font/buenosaires2web_bold</item>
+        <item name="android:color">#E6000000</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Black60BuenosAiresWebBold13sp">
+        <item name="android:fontFamily">@font/buenosaires2web_bold</item>
+        <item name="android:color">#99000000</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="Black60BuenosAiresWebLight12sp">
+        <item name="android:fontFamily">@font/buenosairesweb_light</item>
+        <item name="android:color">#99000000</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>
